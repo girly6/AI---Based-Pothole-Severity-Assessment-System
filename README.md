@@ -1,6 +1,7 @@
 # AI-Based Pothole Severity Assessment System
 
 1. Project Overview
+   
 This project develops an AI system capable of detecting potholes in road images and videos and assessing their severity using instance segmentation. The system is built using the YOLOv8 segmentation model and deployed through a Streamlit-based web application that allows users to upload images or videos for pothole detection.
 The application performs pothole detection, severity estimation based on area coverage, risk analysis, and generates downloadable reports for infrastructure monitoring.
 The goal of the system is to support smart road monitoring and assist municipal authorities in prioritizing road maintenance.
