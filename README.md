@@ -1,1 +1,1 @@
-# AI---Based-Pothole-Severity-Assessment-System
+# AI-Based Pothole Severity Assessment System
